@@ -1,0 +1,16 @@
+The first step in gathering requirements would be to identify and communicate with end-users in the company. Specifically, end-users can belong to several different categories, namely: Data analysts and Scientists, Business and C-Suite level Decision Makers, Software Engineers, and external clients and customers. 
+
+Depending on which group is targeted, different tools and technologies would be prioritized. For example, a Business user would be focused on Dashboards, using tools such as Tableau, and perhaps more fundamentally MS Office tools like Powerpoint and Excel, whereas a software engineer would use APIs and various libraries to run applications and queries. 
+
+Sometimes it may be difficult to get the necessary information, with sufficient clarity and detail, to create an actionable plan on how to meet an organization’s data needs. A request for data by an end user can be further broken down by asking clarifying questions. Such questions may include:
+	
+The main objective of the analysis, the type of data analysis that you want to use, what you intend to gain from this analysis, where you can extract the data from and what metrics you will measure.
+
+With each member of this set:
+
+The main objective of the analysis: What is the effect this data will have on the business? Are there metrics that are used to track its value, or do we need to create them? 
+The type of data analysis: How granular does it need to be? What is the target audience, who are the relevant stakeholders? 
+what you intend to gain from this analysis: How will we enhance our understanding of our business with this data? 
+where you can extract the data from and what metrics you will measure: Questions about where the data is stored, a database, locally/in the cloud, file formats such as  .xlsx, how will users access the data, output requirements regarding the schema and format.
+
+These questions should be followed up on and broken down into smaller deliverables where this is consensus amongst all included parties. 
